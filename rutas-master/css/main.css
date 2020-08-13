@@ -1,0 +1,42 @@
+body{
+    background-color: red;
+}
+
+section{
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+}
+.img1{
+    background-image: url("../img/jpg/Old-Cars-HD-Background.jpg"); 
+}
+
+.img1 div { /* a esto analicenle el float y pq si tiene ancho 0 se ve*/
+    float: left;
+    background-color: blue;
+    margin: 50px;
+    padding: 50px;
+    width: 0px;
+    height: 0;
+}
+
+.quieroverlo{ /*modificar estilos para que lo vean*/
+    width: 0;
+    background-color: yellow;
+}
+
+.img2{
+    background-image: url("../img/jpg/34070dfe3df37f106a5a9311455ece0f.jpg");
+}
+
+.img3{
+    background-image: url("../img/png/background-sup.png"); /* aqui el png - que son las de fondos transparentes  */
+}
+
+.img4{
+    background-image: url("../img/jpg/a4b0f7450fc3842a3873dc9e3d8dd92e.jpg");
+}
+
+.img5{
+    background-image: url("../img/jpg/car-backgrounds-3.jpg");
+}
