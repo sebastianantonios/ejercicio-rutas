@@ -1,0 +1,21 @@
+
+    .hs{
+        background-color: red;
+        overflow: auto;
+        width: 100%;
+    }
+         
+     .h-1{
+         float: left;
+     }
+     .h-2{
+         float: left ;
+     }
+     .imagen-1{
+         display: block;
+         margin: 50px;
+         margin-left: 100px 
+         
+         
+         
+     }
