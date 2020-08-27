@@ -1,21 +1,233 @@
-
+*{
+    padding: 0%;     /*bode interno*/ 
+     margin: 0%;       /*bode externo*/ 
+    
+    }
+    section {
+        background-color: rgb(105, 255, 185);
+        color: black;
+        padding: 100px;
+        font-family: 'Teko', sans-serif;
+        margin-top: 50px;
+        margin-bottom: 70px;
+        margin-left: 60px;
+        margin-right: 5%;
+        
+        
+        
+    }
     .hs{
         background-color: red;
         overflow: auto;
-        width: 100%;
+    } 
+    .h-1{
+        float: left;
+        padding-right: 20;
+          
+    
+      
     }
-         
-     .h-1{
-         float: left;
-     }
-     .h-2{
-         float: left ;
-     }
-     .imagen-1{
-         display: block;
-         margin: 50px;
-         margin-left: 100px 
-         
-         
-         
-     }
+    .h-2{
+      
+        float: left;
+        padding-right: 20;
+    
+    }
+    .h-3{
+       float: left;
+       padding-right: 20;
+    }
+    .h-4{
+       float: left;
+       padding-right: 20;
+    
+    }
+    .h-5{
+        float: left;
+        padding-right: 20;
+    
+    }
+    .h-6{
+      float: left;
+        
+    
+    }
+    .imagenes{
+        overflow: auto; 
+    }
+    .imagen-1{
+        float: right;
+        
+        
+       
+    }
+    .imagen-2{
+        float: left;
+    
+    }
+
+    .colores{
+        background-color: brown;
+        overflow:auto;
+
+
+    }
+    
+    .caja1{
+        width: 60px;
+        height:90px;
+        background-color: yellow;
+        margin-top: auto;
+        margin-left: 50px;
+        padding-left: 60px;
+        padding-right: 60px;
+        padding-top: 60px;
+        float: left; 
+  
+      
+    }
+    .caja2{
+        width: 100px;
+        height:100px;
+        background-color: green;
+        margin-top: 50px;
+        margin-left: 80px;
+        float:left;
+
+      
+      
+    }
+    .caja3{
+        background-color: grey;
+        width: 70px;
+        height: 50px;
+        padding: 40px;
+        margin-left: 50px;
+        float: left;
+        
+
+    }
+
+    .caja4{
+        background-color: indigo;
+        width: 150px;
+        padding: 100px;
+        float: left;
+        margin-left: 50px;
+    }
+
+    .caja5{
+        background-color: orange;
+        width: 100px;
+        height: 80px;
+        padding: 25px;
+        float: left;
+        margin-left: 50px;
+
+    }
+
+    .caja6{
+        background-color: palevioletred;
+        width: 100px;
+        height:100px;
+        padding:70px;
+        float: left;
+        margin-left: 50px;
+
+    }
+    .link-1{
+        text-align: center;
+    
+    }
+    .span{
+        background-color:black;
+        overflow: auto;
+        color: coral;
+        
+    }
+   .span-1{
+       color: white;
+       font-size: 50px;
+       background-color: yellowgreen;
+       
+    
+    }
+  .span-2{
+       color: blue;
+       font-size: 40px
+    }
+   .span-3{
+    color: gray;
+    font-size: 30px;
+       
+   }
+   .span-4{
+    color: blue;
+    font-size: 80px;
+       
+   }
+   .span-5{
+    color: gold;
+    font-size: 15px;
+       
+   }
+.span-4{
+    color: green;
+    font-size: 40px;
+       
+   } 
+   .formulario-1{
+       background-color: darkslategray;
+       overflow: auto;
+       color:white;
+       text-justify: auto;
+       text-align: center;
+       font-size: medium;
+
+       
+   }
+   .formulario1{
+       background-color: gold;
+       font-size: medium;
+       float: left;
+
+   }
+   .formulario2{
+       background-color: green;
+       font-size: medium;
+       float: left;
+       margin-left: 60px;
+
+   }
+   .formulario3{
+    background-color:pink;
+    text-align: center;
+    font-size: medium;
+    float: left;
+    margin-left: 60px;
+
+    }
+    .formulario4{
+    float: left;
+    margin-left: 60px;
+    background-color: tomato;
+    }
+    .formulario5{
+    float: left;
+    margin-left: 60px;
+    background-color: burlywood;    
+    }
+    .formulario6{
+    float: left;
+    margin-left: 60px;
+    background-color: cornflowerblue;
+    }
+   
+    .tabla{
+     overflow:auto;
+     background-color: rgb(100, 163, 100);
+     text-align: center;
+     padding-left: 10cm;
+
+    }
+    
